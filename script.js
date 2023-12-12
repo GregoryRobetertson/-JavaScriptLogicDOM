@@ -20,7 +20,7 @@ submitButton.addEventListener("click", function () {
   }
 });
 
-// See if the user input the Number 15
+// See if the user input the Number 10
 if (parseInt(userInput) === 10) {
-  displayOutput("You entered number 15!");
+  displayOutput("You entered number 10!");
 } else if (userInput.toLower);
